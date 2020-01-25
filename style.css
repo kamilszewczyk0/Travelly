@@ -233,7 +233,7 @@ nav ul {
 #contact {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.6), transparent),
-    url("./icons/img/contact-mountain.png");
+    url("icons/img/contact-mountain.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
